@@ -69,26 +69,31 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 ### Week 1: Sep 2 & 4
 - **Mon:** Course overview, logistics, self-introductions, etc.
 - **Wed [[Zoom]](https://kaist.zoom.us/j/3768351497):** Branching and iteration
-  - ⭐ Exercise 1 (due date: 11:59pm Sep 11)
+  - ⭐ Exercise 1 questions (due date: 11:59pm Sep 11) [[link]](https://colab.research.google.com/drive/1pGrmTmH0tVpIGXxwyj3nLprwe3rVsTcd?usp=sharing)
+  - 🌟 Exercise 1 example solutions [[to be uploaded]]()
 
 ### Week 2: Sep 9 & 11
 - **Mon:** No class (instructor at conference)
 - **Wed:** String manipulation, tuples, and lists
-  - ⭐ Exercise 2 (due date: 11:59pm Sep 23)
+  - ⭐ Exercise 2 questions (due date: 11:59pm Sep 23) [[to be uploaded]]()
+  - 🌟 Exercise 2 example solutions [[to be uploaded]]()
 
 ### Week 3: Sep 16 & 18
 - **Mon & Wed:** No class (Chuseok)
 
 ### Week 4: Sep 23 & 25
 - **Mon:** Functions, modules, and exceptions
-  - ⭐ Exercise 3 (due date: 11:59pm Sep 30)
+  - ⭐ Exercise 3 questions (due date: 11:59pm Sep 30) [[to be uploaded]]()
+  - 🌟 Exercise 3 example solutions [[to be uploaded]]()
 - **Wed:** Dictionaries, sets, and recursion
-  - ⭐ Exercise 4 (due date: 11:59pm Oct 2)
+  - ⭐ Exercise 4 questions (due date: 11:59pm Oct 2) [[to be uploaded]]()
+  - 🌟 Exercise 4 example solutions [[to be uploaded]]()
 
 ### Week 5: Sep 30 & Oct 2
 - **Mon:** NumPy and Pandas I
 - **Wed:** NumPy and Pandas II
-  - ⭐ Exercise 5 (due date: 11:59pm Oct 14)
+  - ⭐ Exercise 5 questions (due date: 11:59pm Oct 14) [[to be uploaded]]()
+  - 🌟 Exercise 5 example solutions [[to be uploaded]]()
 
 ### Week 6: Oct 7 & Oct 9
 - **Mon:** TBD
