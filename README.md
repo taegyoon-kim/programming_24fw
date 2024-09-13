@@ -70,7 +70,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 - **Mon:** Course overview, logistics, self-introductions, etc.
 - **Wed [[Zoom]](https://kaist.zoom.us/j/3768351497):** Branching and iteration
   - ⭐ Exercise 1 questions (due date: 11:59pm Sep 11) [[link]](https://colab.research.google.com/drive/1pGrmTmH0tVpIGXxwyj3nLprwe3rVsTcd?usp=sharing)
-  - 🌟 Exercise 1 example solutions [link]](https://colab.research.google.com/drive/1dPi0VFQpo1MH-JCv5PE1GH8_hEGCG5Is?usp=sharing)
+  - 🌟 Exercise 1 example solutions [[link]](https://colab.research.google.com/drive/1dPi0VFQpo1MH-JCv5PE1GH8_hEGCG5Is?usp=sharing)
 
 ### Week 2: Sep 9 & 11
 - **Mon:** No class (instructor at conference)
