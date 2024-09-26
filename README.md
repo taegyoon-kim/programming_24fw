@@ -76,17 +76,17 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 - **Mon:** No class (instructor at conference)
 - **Wed:** String manipulation, tuples, and lists
   - ⭐ Exercise 2 questions (due date: 11:59pm Sep 23) [[link]](https://colab.research.google.com/drive/1vyBBwnKI7IcGtKbBajOLof1_2p2StxIs?usp=sharing)
-  - 🌟 Exercise 2 example solutions [[to be uploaded]]()
+  - 🌟 Exercise 2 example solutions [[link]](https://colab.research.google.com/drive/1seRAcUFoLGdr75QmiJ59ncCmbpOwUPMb?usp=sharing)
 
 ### Week 3: Sep 16 & 18
 - **Mon & Wed:** No class (Chuseok)
 
 ### Week 4: Sep 23 & 25
 - **Mon:** Functions, modules, and exceptions
-  - ⭐ Exercise 3 questions (due date: 11:59pm Sep 30) [[to be uploaded]]()
+  - ⭐ Exercise 3 questions (due date: 11:59pm Oct 3) [[link]](https://colab.research.google.com/drive/1F1BKa6Zx6BnpE9b-EZv3wXMfhq23I4YQ?usp=sharing)
   - 🌟 Exercise 3 example solutions [[to be uploaded]]()
 - **Wed:** Dictionaries, sets, and recursion
-  - ⭐ Exercise 4 questions (due date: 11:59pm Oct 2) [[to be uploaded]]()
+  - ⭐ Exercise 4 questions (due date: 11:59pm Oct 5) [[link]](https://colab.research.google.com/drive/1KTDWQv4J6ewlzCuy0u5yVbccyWQ3yl6z?usp=sharing)
   - 🌟 Exercise 4 example solutions [[to be uploaded]]()
 
 ### Week 5: Sep 30 & Oct 2
