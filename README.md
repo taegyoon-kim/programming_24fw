@@ -84,10 +84,10 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 ### Week 4: Sep 23 & 25
 - **Mon:** Functions, modules, and exceptions
   - ⭐ Exercise 3 questions (due date: 11:59pm Oct 3) [[link]](https://colab.research.google.com/drive/1F1BKa6Zx6BnpE9b-EZv3wXMfhq23I4YQ?usp=sharing)
-  - 🌟 Exercise 3 example solutions [[to be uploaded]]()
+  - 🌟 Exercise 3 example solutions [[to be uploaded]](https://colab.research.google.com/drive/1F5fedQkrscBF0c2P-X4u6o3li6udemf4?usp=sharing)
 - **Wed:** Dictionaries, sets, and recursion
   - ⭐ Exercise 4 questions (due date: 11:59pm Oct 5) [[link]](https://colab.research.google.com/drive/1KTDWQv4J6ewlzCuy0u5yVbccyWQ3yl6z?usp=sharing)
-  - 🌟 Exercise 4 example solutions [[to be uploaded]]()
+  - 🌟 Exercise 4 example solutions [[to be uploaded]](https://colab.research.google.com/drive/1S_9DOJwO4h1qtVobNCVjWDOeHCN2oRW3?usp=sharing)
 
 ### Week 5: Sep 30 & Oct 2
 - **Mon:** NumPy and Pandas I
