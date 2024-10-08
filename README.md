@@ -95,7 +95,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 
 ### Week 6: Oct 7 & Oct 9
 - **Mon:** NumPy and Pandas II (2/2)
-  - ⭐ Exercise 5 questions (due date: 11:59pm Oct 14) [[to be uploaded]]()
+  - ⭐ Exercise 5 questions (due date: 11:59pm Oct 18) [[link]](https://colab.research.google.com/drive/1nNI8ITwF3Q4jTxc5QmjffZYnpo967o4H?usp=sharing)
   - 🌟 Exercise 5 example solutions [[to be uploaded]]()
 - **Wed:** No class (Hangul Day)
 
