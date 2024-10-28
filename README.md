@@ -96,7 +96,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 ### Week 6: Oct 7 & Oct 9
 - **Mon:** NumPy and Pandas II (2/2)
   - ⭐ Exercise 5 questions (due date: 11:59pm Oct 18) [[link]](https://colab.research.google.com/drive/1nNI8ITwF3Q4jTxc5QmjffZYnpo967o4H?usp=sharing)
-  - 🌟 Exercise 5 example solutions [[to be uploaded]]()
+  - 🌟 Exercise 5 example solutions [[link]](https://colab.research.google.com/drive/1C0u0L-DtHDJ1p6Zy630K7NZmoXEgpUwP?usp=sharing)
 - **Wed:** No class (Hangul Day)
 
 ### Week 7: Oct 14 & Oct 16
@@ -108,6 +108,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 
 ### Week 9: Oct 28 & 30
 - **Mon & Wed:** Visualization
+  - Lecture notebook: [[link]](https://colab.research.google.com/drive/1flcXkEUdA4Cqd0RQDAfooWRIhJVfPvP9?usp=sharing)
 
 ### Week 10: Nov 4 & Nov 6
 - **Mon & Wed:** Interacting with API (Application Programming Interface)
