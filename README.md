@@ -109,6 +109,8 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 ### Week 9: Oct 28 & 30
 - **Mon & Wed:** Visualization
   - Lecture notebook: [[link]](https://colab.research.google.com/drive/1flcXkEUdA4Cqd0RQDAfooWRIhJVfPvP9?usp=sharing)
+  - ⭐ In-class exercise: [[link]](https://colab.research.google.com/drive/1QS27PH-Paw8Gi45ErRepq5F67sOToTVR?usp=sharing)
+  - 🌟 In-class exercise example solution: [[link]](https://colab.research.google.com/drive/1QTJY6Mz4dTMxSFFNr_Ms17XhbVEVl13t?usp=sharing)
 
 ### Week 10: Nov 4 & Nov 6
 - **Mon & Wed:** Interacting with API (Application Programming Interface)
