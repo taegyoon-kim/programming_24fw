@@ -114,6 +114,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 
 ### Week 10: Nov 4 & Nov 6
 - **Mon & Wed:** Interacting with API (Application Programming Interface)
+  - Lecture notebook: [[link]](https://drive.google.com/file/d/1Qz59XjMeWoppnPPeGOZ-wSFpct0kAsox/view?usp=sharing)
 
 ### Week 11: Nov 11 & 13
 - **Mon & Wed:** Web scraping
