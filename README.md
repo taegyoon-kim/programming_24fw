@@ -115,6 +115,8 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 ### Week 10: Nov 4 & Nov 6
 - **Mon & Wed:** Interacting with API (Application Programming Interface)
   - Lecture notebook: [[link]](https://colab.research.google.com/drive/13DchZEHRPMRcXk8bXlUY2gkxga4YINMi?usp=sharing)
+  - ⭐ In-class exercise: [[link]](https://colab.research.google.com/drive/1dMYzrZ7rvJnsboQtRnGBjESujR6NJtIR?usp=sharing)
+
 
 ### Week 11: Nov 11 & 13
 - **Mon & Wed:** Web scraping
