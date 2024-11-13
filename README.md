@@ -117,9 +117,9 @@ The course schedule is detailed in the weekly breakdown below. The course slides
   - Lecture notebook: [[link]](https://colab.research.google.com/drive/13DchZEHRPMRcXk8bXlUY2gkxga4YINMi?usp=sharing)
   - ⭐ In-class exercise: [[link]](https://colab.research.google.com/drive/1dMYzrZ7rvJnsboQtRnGBjESujR6NJtIR?usp=sharing)
 
-
 ### Week 11: Nov 11 & 13
 - **Mon & Wed:** Web scraping
+  - ⭐ In-class exercise: [[link]](https://drive.google.com/drive/folders/1neJSzuvAqGQM1X8GfVp6kAC2GLCpzd2A?usp=sharing)
 
 ### Week 12: Nov 18 & 20
 - **Mon & Wed:** Text-as-data/NLP I
