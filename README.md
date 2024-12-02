@@ -131,6 +131,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 
 ### Week 14: Dec 2 & 4
 - **Mon & Wed:** Network analysis
+  - Lecture notebook: [[link]](https://colab.research.google.com/drive/1ovkdlgIbb81BWnXNKq0YQNxWyOU_Ji4F?usp=sharing)
 
 ### Week 15: Dec 9 & 11
 - **Mon & Wed:** Machine learning
