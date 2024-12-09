@@ -135,6 +135,7 @@ The course schedule is detailed in the weekly breakdown below. The course slides
 
 ### Week 15: Dec 9 & 11
 - **Mon & Wed:** Machine learning
+  - ⭐ In-class exercise (string manipulation and regex): [[link]](https://colab.research.google.com/drive/1CsX588FDxxE4MXFyCr_0tvIiItTJRa7x?usp=sharing)
 
 ### Week 16: Dec 16 & 18 (Final Presentations)
 - **Mon & Wed:** Final presentations
